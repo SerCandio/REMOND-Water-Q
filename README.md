@@ -4,7 +4,7 @@ Arduino Library for the REMOND Water Quality Analysis sensors : PH sensor, DO se
 # Note
 Before using this library and its example, instalation of the Modbus Master library is mandatory, which can be found on this link : https://github.com/4-20ma/ModbusMaster 
 
-Datasheets for each sensor are also included on this repository on its folder
+Datasheets for each sensor are also included on this repository on its folder. The first examples are located on "old examples" folder, witch are ".ino" files working only for each sensor individually and which videos below were filmed
 
 # Results
 
