@@ -1,10 +1,13 @@
 # REMOND-Water-Q
 Arduino Library for the REMOND Water Quality Analysis sensors : PH sensor, DO sensor, NO3 sensor, EC sensor and turbidity (inmersion type) using the ModBUS Interface. At the monent, this is the first version
 
-# Note
+# Note 1
 Before using this library and its example, instalation of the Modbus Master library is mandatory, which can be found on this link : https://github.com/4-20ma/ModbusMaster 
 
 Datasheets for each sensor are also included on this repository on its folder. The first examples are located on "old examples" folder, witch are ".ino" files working only for each sensor individually and which videos below were filmed
+
+# Note 2
+Calibration ineractive code for turbidimeter can be found on "sensor_Modbus_Turbidity_CALIBRATION_All" folder https://github.com/SerCandio/REMOND-Water-Q/tree/main/sensor_Modbus_Turbidity_CALIBRATION_All
 
 # Results
 
