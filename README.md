@@ -6,9 +6,6 @@ Before using this library and its example, instalation of the Modbus Master libr
 
 Datasheets for each sensor are also included on this repository on its folder. The first examples are located on "old examples" folder, witch are ".ino" files working only for each sensor individually and which videos below were filmed
 
-# Note 2
-Calibration ineractive code for turbidimeter can be found on "sensor_Modbus_Turbidity_CALIBRATION_All" folder https://github.com/SerCandio/REMOND-Water-Q/tree/main/sensor_Modbus_Turbidity_CALIBRATION_All
-
 # Results
 
 1.- pH reding all parameters : measurements, temperature and warnings
